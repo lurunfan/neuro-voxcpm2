@@ -1,0 +1,12 @@
+Neuro-style VoxCPM2 LoRA experiment
+Unofficial community experiment, not affiliated with or endorsed by Vedal or Neuro-sama.
+
+Built on OpenBMB VoxCPM / VoxCPM2, licensed under Apache-2.0.
+https://github.com/OpenBMB/VoxCPM
+https://huggingface.co/openbmb/VoxCPM2
+
+patches/lowmem.patch modifies OpenBMB VoxCPM source code at commit
+4b8dd4440d33396b3f429201f8af0529b4d2c601. Original attribution is preserved.
+
+The code license does not grant rights to third-party recordings, characters,
+names, trademarks, or endorsements. Original training recordings are not included.

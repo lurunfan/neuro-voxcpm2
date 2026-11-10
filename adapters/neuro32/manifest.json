@@ -1,0 +1,8 @@
+{
+  "filename": "lora_weights.safetensors",
+  "bytes": 36221200,
+  "sha256": "522a4a78c7c4002fc2326ef3cc7edb6982b216eee2418de009fc3951da5c390c",
+  "training_step": 32,
+  "tensors": 384,
+  "base_model": "openbmb/VoxCPM2"
+}

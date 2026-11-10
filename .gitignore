@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+cache/
+models/
+outputs/
+data/
+references/
+vendor/
+*.log
+.env*
+optimizer.pth

@@ -1,0 +1,9 @@
+# Install the appropriate CUDA build of torch/torchaudio first; see README.
+voxcpm @ git+https://github.com/OpenBMB/VoxCPM.git@4b8dd4440d33396b3f429201f8af0529b4d2c601
+torch==2.8.0
+torchaudio==2.8.0
+transformers==5.3.0
+huggingface-hub==1.7.1
+numpy==2.4.3
+soundfile==0.13.1
+safetensors==0.7.0
